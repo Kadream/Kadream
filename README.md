@@ -12,6 +12,7 @@ software engineering roles (remote / Canada / international).
 ### Featured Projects
 
 **Pandora Business Hub** · _private, company project_
+
 Full-stack internal operations platform integrating the DİA ERP for 600+ dealers —
 accounting, 30/60/90 receivables scoring, and sales-performance analytics with
 role-based access.
